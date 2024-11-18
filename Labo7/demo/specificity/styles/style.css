@@ -1,0 +1,9 @@
+header.hoofd h1 {
+    color: gray;
+}
+header h1 {
+    color: blue;
+}
+h1 {
+    color: red;
+}

@@ -1,0 +1,45 @@
+body {
+    width: 95%;
+    margin: auto;
+}
+section > header {
+    background-image: url("../header.jpg");
+    background-size: cover;
+    color: #ffffff;
+    text-align: left;
+    padding: 5px;
+    background-repeat: no-repeat;
+
+}
+section > header > h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    position: relative;
+    top: -25px;
+    left: 5px;
+}
+nav {
+    background: dimgray;
+    justify-content: space-between;
+    padding: 5px;
+}
+nav > a {
+    color: lightgreen;
+    text-decoration: none;
+}
+article > header > h1 {
+    font-size: 2em;
+    color: black;
+    padding-top: 40px;
+    padding-bottom: -10px;
+    text-decoration: underline black solid;
+}
+article {
+    background: lightgray;
+    margin-bottom: -40px;
+    margin-top: -40px;
+}
+section > footer {
+    padding-top: 45px;
+}
