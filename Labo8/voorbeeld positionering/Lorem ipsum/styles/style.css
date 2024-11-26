@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .kolommen {
     display: flex;
 }
@@ -9,3 +10,16 @@ section {
 .kolom2 {
     margin-left: 10px;
 }
+=======
+.kolommen {
+    display: flex;
+}
+section {
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 10px;
+}
+.kolom2 {
+    margin-left: 10px;
+}
+>>>>>>> ef556db59ceff9a449a242ff66a4a3100bfe4c81
