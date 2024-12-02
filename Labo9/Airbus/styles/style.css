@@ -1,0 +1,100 @@
+body{
+    width:95%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:10px;
+}
+
+header{
+    text-align: center;
+    color:darkblue;
+    background-image: url("../images/bgsky3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    height:200px;
+    position:relative;
+}
+
+.bovenste {
+    font-size: 300%;
+    font-style: italic;
+}
+.onderste{
+    font-size: 240%;
+}
+header img{
+    position: absolute;
+    bottom: 60px;
+    right: 250px;
+}
+section{
+    float:right;
+    width:25%;
+    background-color: #DDDDDD;
+    border:1px solid #999999;
+    box-sizing: border-box;
+    color: #666666;
+    font-size:100%;
+}
+section p{
+    padding: 10px;
+}
+section h3{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size:150%;
+}
+main{
+    width:75%;
+}
+.intro{
+    margin: 20px 30px 20px 0;
+    overflow: hidden;
+}
+.intro p{
+    margin: 0;
+}
+.intro span{
+    color: blue;
+    font-weight: bold;
+}
+#logo{
+    float: left;
+    width: 100px;
+    padding: 20px 20px 0 20px;
+}
+
+.gallerij{
+    float: left;
+    background-color: #999999;
+}
+
+.gallerij > div{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    background-color: white;
+    border: 1px dotted #999999;
+}
+
+.onderaan{
+    clear:both;
+    width:100%;
+    background-color:#666666;
+    color: white;
+    line-height: 2em;
+}
+.onderaan div{
+    float: left;
+    padding-left:120px;
+}
+.onderaan a{
+    color:white;
+}
+.onderaan a:hover{
+    color:red;
+}
+
