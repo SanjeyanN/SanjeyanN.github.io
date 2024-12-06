@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image:url("../images/background-image.png");
+    color: white;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+article {
+    background-color: green;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-repeat: no-repeat;
+}
+
+article h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color: Black;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    padding: 8px 0;
+    border-bottom: 1px solid white;
+}
+
+ul li:last-child {
+    border-bottom: none;
+}
+
+ul li a {
+    color: cyan;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+    color:darkred;
+}
+
+ul li img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color:green;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: green;
+}
+
+tr:hover {
+    background-color: black;
+}
+
+section {
+    margin-top: 40px;
+}
+
+
+ul li {
+    margin-bottom: 10px;
+}
