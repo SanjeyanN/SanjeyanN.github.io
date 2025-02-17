@@ -1,7 +1,10 @@
 const setup = () => {
+    let btnClick = document.getElementById("btnClick");
+    btnClick.addEventListener("click", geklikt);
 }
-let aanpassen = document.getElementById("txtOutput");
-aanpassen.addEvent("input", e => {
+const geklikt = () => {
+    let txtOutput = document.getElementById("txtOutput");
+    txtOutput.innerHTML = "yoo";
+}
 
-})
 window.addEventListener("load", setup);
