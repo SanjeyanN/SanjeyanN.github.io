@@ -1,0 +1,19 @@
+html {
+    background-color: #333;
+    font-family: helvetica;
+}
+
+* {
+    padding: 10px;
+}
+header {
+        background-color: darkorange;
+        text-align: center;
+        color: white;
+}
+
+    nav a {
+        background: white;
+        color: coral;
+}
+

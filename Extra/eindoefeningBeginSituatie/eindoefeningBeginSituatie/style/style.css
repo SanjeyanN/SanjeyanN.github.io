@@ -1,0 +1,42 @@
+
+
+.caption {
+    font-family: helvetica;
+    font-size: 16px;
+    margin-top: 12px;
+}
+
+.gridHeader {
+    background-color: #dcd6fe;
+    width: 100%;
+}
+
+.gridNav {
+    background-color: #c6c0ff;
+    width: 100%;
+}
+
+.gridMain {
+    background-color: #f9f6d2;
+    width: 100%;
+}
+
+.gridAside {
+    background-color: #d4ffd1;
+    width: 100%;
+}
+
+.gridFooter {
+    background-color: #ffd1d1;
+    width: 100%;
+}
+@media screen and (max-width: 786px)
+{
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        justify-items: center;
+    }
+
+}
