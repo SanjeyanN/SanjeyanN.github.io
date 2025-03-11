@@ -5,18 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ff38b30-ef65-4fc1-88cf-a92d63168bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht substring screenshots/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht substring screenshots/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht substring screenshots/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht6/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht6/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Colorpicker/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Colorpicker/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Kleurenwisselaar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Kleurenwisselaar/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Kleurenwisselaar/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Opdracht buttons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Opdracht buttons/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Opdracht buttons/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Producten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Producten/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/Producten/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/demo1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/demo1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/demo1/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/opdracht_paragraaf/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/opdracht_paragraaf/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo3/opdracht_paragraaf/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/OpdrachtFormulierElementen/formulierElementen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/OpdrachtFormulierElementen/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/OpdrachtFormulierElementen/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_Man_van_An/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_Man_van_An/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_Man_van_An/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_spaties_met_functie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_spaties_met_functie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_spaties_met_functie/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_spaties_op_console/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_spaties_op_console/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/Opdracht_spaties_op_console/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/inputTypes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/inputTypes/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sem2/Labo4/inputTypes/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem2/Labo2/opdracht3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem2/Labo2/opdracht4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem2/Labo2/opdracht5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem2/Labo2/opdracht5/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Sem2/Labo2/opdracht5/scripts/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +51,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -58,13 +83,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.formulierElementen.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.kopiePersonalhomepageassignment.html.executor": "Run",
     "Node.js.code.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sanje/Desktop/Unief/WebDevelopment/GitHub/SanjeyanN.github.io/oefeningen/SanjeyanN.github.io/Sem2/Labo2/opdracht substring screenshots",
+    "last_opened_file_path": "C:/Users/sanje/Desktop/Unief/WebDevelopment/GitHub/SanjeyanN.github.io/oefeningen/SanjeyanN.github.io/Sem2/Labo4/Opdracht_Man_van_An",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,18 +104,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo2\opdracht substring screenshots" />
-      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo2" />
-      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem1" />
-      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2" />
-      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\Labo7\PersoonlijkeHomepagemetCSS\images" />
+      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo4\Opdracht_Man_van_An" />
+      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo4\Opdracht_spaties_op_console" />
+      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo4\OpdrachtFormulierElementen" />
+      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo4\inputTypes" />
+      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo3\Producten" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo3\Opdracht buttons" />
       <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo2" />
       <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2" />
       <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem1" />
       <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io" />
-      <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Semester2" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -116,6 +142,15 @@
       <workItem from="1739782988578" duration="2459000" />
       <workItem from="1739813741123" duration="775000" />
       <workItem from="1739820164514" duration="5354000" />
+      <workItem from="1739825614520" duration="243000" />
+      <workItem from="1739868991377" duration="3911000" />
+      <workItem from="1739873373952" duration="6207000" />
+      <workItem from="1740071986374" duration="1000" />
+      <workItem from="1740423547170" duration="1115000" />
+      <workItem from="1741459873270" duration="5807000" />
+      <workItem from="1741512234974" duration="3357000" />
+      <workItem from="1741619749335" duration="14021000" />
+      <workItem from="1741668357789" duration="4889000" />
     </task>
     <servers />
   </component>
