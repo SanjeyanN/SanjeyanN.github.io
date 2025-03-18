@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>formvalidatie</title>
+</head>
+<body>
+<form action="">
+
+    <fieldset>
+        <legend>Typ hier je voornaam</legend>
+        <input type="text" placeholder="voornaam" id="input1" > <span id="voornaam"></span>
+    </fieldset>
+    <fieldset>
+        <legend>Typ hier je achternaam</legend>
+        <input type="text"  placeholder="achternaam" id="input2"> <span id="achternaam"></span>
+    </fieldset>
+    <fieldset>
+        <legend>Wat is je geboortedatum?</legend>
+        <input type="date" required placeholder="geboortedatum" id="input3"> <span id="geboortedatum"></span>
+    </fieldset>
+    <fieldset>
+        <legend>Typ hier je email</legend>
+        <input type="email" placeholder="email"  id="input4"> <span id="email"></span>
+    </fieldset>
+    <fieldset>
+        <legend>Hoeveel kinderen?</legend>
+        <input type="number" placeholder="hoeveel kinderen" id="input5"><span  id="kids"></span>
+    </fieldset>
+    <input type="button" id="btnsubmit" value="Valideer">
+</form>
+<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+</body>
+</html>
