@@ -5,24 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ff38b30-ef65-4fc1-88cf-a92d63168bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/Opdracht_de_en_het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/Opdracht_de_en_het/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/Opdracht_de_en_het/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/demo/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/demo/images/vives.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/demo/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/formvalidatie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/formvalidatie/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/formvalidatie/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/formwaarden/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/formwaarden/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/formwaarden/styles/script.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/trigrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/trigrams/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo5/trigrams/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +119,9 @@
       <workItem from="1741683244961" duration="669000" />
       <workItem from="1741685804717" duration="7809000" />
       <workItem from="1742242542329" duration="6480000" />
-      <workItem from="1742274612006" duration="5027000" />
+      <workItem from="1742274612006" duration="5535000" />
+      <workItem from="1742280211989" duration="37000" />
+      <workItem from="1742286579995" duration="684000" />
     </task>
     <servers />
   </component>
