@@ -4,75 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ff38b30-ef65-4fc1-88cf-a92d63168bec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo10/MyInternetStartPage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo10/MyInternetStartPage/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo10/MyInternetStartPage/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo12/Demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo12/Demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo12/Demo/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo12/ToDoOefening/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo12/ToDoOefening/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo12/ToDoOefening/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht2/images/amCOoked.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht3/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/Opdracht3/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/colorPicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/colorPicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/colorPicker/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/CreateNode/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/CreateNode/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/CreateNode/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/Nodes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/Nodes/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/Nodes/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/demo event bubbling/demo event bubbling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/demo event bubbling/demo event bubbling/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/demo event bubbling/demo event bubbling/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/demo events/demo events/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/demo events/demo events/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo6/demo/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo7/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo7/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo7/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo7/timer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo7/timer/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo7/timer/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Extra oefening Event/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Extra oefening Event/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Extra oefening Event/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Extra oefening date/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Extra oefening date/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Extra oefening date/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Object/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo8/Object/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/DemoStorageJson/DemoStorageJson/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/DemoStorageJson/DemoStorageJson/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/Start_Colorpicker/Start_Colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/Start_Colorpicker/Start_Colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/Start_Colorpicker/Start_Colorpicker/scripts/storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/Start_Colorpicker/Start_Colorpicker/scripts/swatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/Start_Colorpicker/Start_Colorpicker/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/demo storage/demo storage/demo storage/demo 1 globale variabelen/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/demo storage/demo storage/demo storage/demo 1 globale variabelen/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/demo storage/demo storage/demo storage/demo 2 session storage/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/demo storage/demo storage/demo storage/demo 2 session storage/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/demo storage/demo storage/demo storage/demo 3 local storage/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sem2/Labo9/demo storage/demo storage/demo storage/demo 3 local storage/script/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem2/index.js" beforeDir="false" />
-    </list>
+    <list default="true" id="3ff38b30-ef65-4fc1-88cf-a92d63168bec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -110,30 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.formulierElementen.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.htm.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.kopiePersonalhomepageassignment.html.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.code.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanje/Desktop/Unief/WebDevelopment/GitHub/SanjeyanN.github.io/oefeningen/SanjeyanN.github.io/Sem2/Labo12&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/sanje/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.13.1/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.formulierElementen.html.executor": "Run",
+    "JavaScript Debug.index.htm.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.kopiePersonalhomepageassignment.html.executor": "Run",
+    "Node.js.code.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.storage.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/sanje/Desktop/Unief/WebDevelopment/GitHub/SanjeyanN.github.io/oefeningen/SanjeyanN.github.io/Sem2/Labo12",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/sanje/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.13.1/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sanje\Desktop\Unief\WebDevelopment\GitHub\SanjeyanN.github.io\oefeningen\SanjeyanN.github.io\Sem2\Labo12" />
@@ -201,6 +134,7 @@
       <workItem from="1747246389426" duration="3258000" />
       <workItem from="1747475597398" duration="8956000" />
       <workItem from="1747559786156" duration="8778000" />
+      <workItem from="1747600267895" duration="1614000" />
     </task>
     <servers />
   </component>
